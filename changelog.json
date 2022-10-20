@@ -10,6 +10,16 @@
     "androidLink": "https://apk.tennisi.pro/tennisi-bet-1-3-0.apk"
   },
   {
+    "versionName": "1.2.1",
+    "changelog": "* Поддержали получения sms при авторизации\n* Показываем минимальную сумму ставки в корзине\n\n* fixed: в корзине отображаем корректную валюту",
+    "androidLink": "https://apk.tennisi.pro/tennisi-bet-1-2-1.apk"
+  },
+  {
+    "versionName": "1.2.0",
+    "changelog": "* Поддержали express купоны в \"Мои Ставки\"\n* Поддержали телеграмм бота тех. поддержки\n* Поддержали Android 13 themed app icons\n* Переверстали на белый AppBar\n* Реализовали \"Промо коды\"\n* Убрали возможность связи с тех поддержкой через whatsapp\n\n* fixed: улучшили работу экранов списание / пополнения\n* fixed: улучшили работу корзины\n* fixed: поправили экран мини-игр\n\n* tech: remove auth redux\n* tech: fast auth screen refactoring\n* tech: migrate on deposit API v2\n* tech: profile refactoring\n* tech: upgrade third party deps\n* tech: match screen migrate elementary",
+    "androidLink": "https://apk.tennisi.pro/tennisi-bet-1-2-0.apk"
+  },
+  {
     "versionName": "1.1.0",
     "changelog": "* Скрыть неизвестные виды спорта\n* Обновили иконки в navigation bar\n* Мини-игры получили: стартовые иконки, заглушку для состояний загрузки или ошибок\n* Вернули возможность пополнение / вывод средств из приложения\n\n* fixed: серый экран в Линии после удаления единственного матча в виде спорта\n* fixed: купоны неподдерживаемых видов теперь ведут на верный (текущий) хост\n* fixed: несколько исправлений в экранах корзины, пополнения, списания\n* fixed: исправили работу с закрытием системных диалогов\n\n* tech: migrate on Flutter 3.3\n* tech: upgrade third party deps\n* tech: добавили web платформу\n* tech: добавили macOS платформу",
     "androidLink": "https://apk.tennisi.pro/tennisi-bet-1-1-0.apk"
