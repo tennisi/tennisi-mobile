@@ -1,0 +1,53 @@
+{
+  "version": "23.04.04",
+  "android": {
+    "tennisi": {
+      "kg": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk"
+    },
+    "chesnok": {
+      "kg": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk"
+    }
+  },
+  "iOS": {
+    "tennisi": {
+      "kg": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk"
+    },
+    "chesnok": {
+      "kg": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk"
+    }
+  },
+  "macOS": {
+    "tennisi": {
+      "kg": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk"
+    },
+    "chesnok": {
+      "kg": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk"
+    }
+  },
+  "linux": {
+    "tennisi": {
+      "kg": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk"
+    },
+    "chesnok": {
+      "kg": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk"
+    }
+  },
+  "windows": {
+    "tennisi": {
+      "kg": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk"
+    },
+    "chesnok": {
+      "kg": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk",
+      "kz": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk"
+    }
+  }
+}
