@@ -1,28 +1,30 @@
 {
-  "android": {
-    "tennisi": {
-      "kg": {
-        "version": "23.04.04",
-        "url": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk"
+  "data": {
+    "android": {
+      "tennisi": {
+        "kg": {
+          "version": "23.04.04",
+          "url": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk"
+        },
+        "kz": {
+          "version": "23.04.04",
+          "url": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk"
+        }
       },
-      "kz": {
-        "version": "23.04.04",
-        "url": "https://apk.tennisi.pro/tennisi-bet-23-04-04.apk"
+      "chesnok": {
+        "kg": {
+          "version": "23.04.04",
+          "url": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk"
+        },
+        "kz": {
+          "version": "23.04.04",
+          "url": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk"
+        }
       }
     },
-    "chesnok": {
-      "kg": {
-        "version": "23.04.04",
-        "url": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk"
-      },
-      "kz": {
-        "version": "23.04.04",
-        "url": "https://apk.tennisi.pro/chesnok-bet-23-04-04.apk"
-      }
-    }
-  },
-  "iOS": {},
-  "macOS": {},
-  "linux": {},
-  "windows": {}
+    "iOS": {},
+    "macOS": {},
+    "linux": {},
+    "windows": {}
+  }
 }
