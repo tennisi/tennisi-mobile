@@ -28,6 +28,12 @@
           "version": "24.04.09",
           "url": "https://apk.chesnok.bet/chesnok-bet-24-04-09.apk"
         }
+      },
+      "komyob": {
+        "tj": {
+          "version": "24.04.09",
+          "url": "https://apk.komyob.bet/komyob-bet-24-04-09.apk" 
+        }
       }
     },
     "iOS": {},
