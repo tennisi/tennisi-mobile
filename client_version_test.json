@@ -1,4 +1,5 @@
 {
     "minimum": "1.0.0",
-    "latest": "777.777.778"
+    "latest": "777.777.778",
+    "url": "https://example.com/app-release.apk"
 }
