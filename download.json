@@ -38,6 +38,12 @@
           "version": "26.03.16",
           "url": "https://apk.komyob.bet/komyob-tj-26.03.16.1064.apk"
         }
+      },
+      "oinabet": {
+        "kz": {
+          "version": "26.03.30",
+          "url": "https://apk.oinabet.kz/oinabet-kz-26.03.30.1077.apk"
+        }
       }
     },
     "iOS": {},
