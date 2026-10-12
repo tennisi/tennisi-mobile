@@ -44,6 +44,12 @@
           "version": "26.09.18",
           "url": "https://apk.oinabet.kz/oinabet-kz-26.09.18.1249.apk"
         }
+      },
+      "tBet": {
+        "ru": {
+          "version": "26.10.09",
+          "url": "https://apk.s3.tbet.ru/tbet-26.10.09.1270.apk"
+        }
       }
     },
     "iOS": {},
